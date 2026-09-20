@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Shorts Player",
+  "description": "Mobile-responsive full-screen vertical video player featuring CSS scroll-snapping, auto-play Intersection Observer, double-tap heart burst animation, zero-latency preloading engine, and AI creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
